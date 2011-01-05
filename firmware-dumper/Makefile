@@ -1,3 +1,6 @@
+#
+# (C) Milosch Meriac <meriac@openpcd.org>
+#
 PROJECT=dumper-eeprom
 CPU=18f452
 
